@@ -4,7 +4,7 @@ How to use:
 
 Install Node.js on your terminal (cmd) and them run the npm code:
 ```
-npm install websocket
+npm install ws
 npm install cheerio
 ```
 
