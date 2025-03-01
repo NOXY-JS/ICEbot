@@ -13,6 +13,12 @@ git:
 ```
 git clone https://github.com/NOXY-JS/ICEbot.git
 ```
+then run
+```
+cd ICEbot
+node
+.load icebot-node.js
+```
 After doing this, go to your browser and install the .zip file extension from "ICEbot () node.zip" file
 then load "Gartic.io" to see if it works.
 
