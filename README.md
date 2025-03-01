@@ -1,4 +1,4 @@
-## ICEbot for node.js
+## ICEbot for Node.js
 
 How to use:
 
@@ -15,6 +15,8 @@ git clone https://github.com/NOXY-JS/ICEbot.git
 ```
 After doing this, go to your browser and install the .zip file extension from "ICEbot () node.zip" file
 then load "Gartic.io" to see if it works.
-The using mode is the same as ICEbot v6 but its more faster than using it on normal browsers.
+
+
+It works like ICEbot v6 but its more faster than using it on normal browsers.
 
 Some resources may not work but it will be fixed soon and added to this repo.
